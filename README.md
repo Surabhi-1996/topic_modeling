@@ -1,4 +1,4 @@
-# Topic Modeling using Latent Dirichlet Allocation and Non-negative Matrix Classification
+# Topic Modeling using Latent Dirichlet Allocation and Non-negative Matrix Factorization
 
 ## We are using npr dataset, which contains comprehensive identity database for every usual resident in the country.
 
